@@ -1,0 +1,11 @@
+int main()
+begin
+int L[num];
+int maxval=L[num];
+for i=num to n-num do
+if L[i]>maxval
+maxval=L[i];
+endif
+endfor
+return(maxval)
+end
